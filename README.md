@@ -4,13 +4,13 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📄 Project Overview
-This repository contains the work completed for the **BCG GenAI Job Simulation** on Forage. [cite_start]The scenario simulates a project within the GenAI consulting team at **BCG X**, where I acted as a Junior Data Scientist[cite: 38].
+This repository contains the work completed for the **BCG GenAI Job Simulation** on Forage. The scenario simulates a project within the GenAI consulting team at **BCG X**, where I acted as a Junior Data Scientist[cite: 38].
 
 [cite_start]The objective was to develop an AI-powered chatbot capable of extracting and analyzing key financial data from 10-K and 10-Q documents to assist with financial inquiries[cite: 41, 45].
 
 ## 📂 Repository Structure
 
-### [Task 1: Data Extraction & Analysis](./Task%201%20-%20Data%20Extraction%20&%20Analysis)
+### [Task 1 Data Extraction and Initial Analysis](https://github.com/sunnyai79/BCG-GenAI-Job-Simulation/tree/main/Task%201%20Data%20extraction%20and%20initial%20analysis)
 [cite_start]**Focus:** Data Preparation and Initial Analysis [cite: 50]
 * [cite_start]**Objective:** Extract key financial data from 10-K documents and lay the groundwork for AI-driven insights[cite: 53].
 * **Activities:**
