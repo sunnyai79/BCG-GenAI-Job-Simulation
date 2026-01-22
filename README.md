@@ -11,34 +11,32 @@ This repository contains the work completed for the **BCG GenAI Job Simulation**
 ## 📂 Repository Structure
 
 ### [Task 1 Data Extraction and Initial Analysis](https://github.com/sunnyai79/BCG-GenAI-Job-Simulation/tree/main/Task%201%20Data%20extraction%20and%20initial%20analysis)
-[cite_start]**Focus:** Data Preparation and Initial Analysis [cite: 50]
-* [cite_start]**Objective:** Extract key financial data from 10-K documents and lay the groundwork for AI-driven insights[cite: 53].
-* **Activities:**
-    * [cite_start]Analyzed financial statement components and performance metrics[cite: 56].
-    * [cite_start]Cleaned and formatted data for processing in an AI model[cite: 61].
-    * [cite_start]Identified significant financial trends and indicators[cite: 60].
+**Objective:** Extract key financial data from 10-K documents and lay the groundwork for AI-driven insights.
+**Activities:**
+    * Analyzed financial statement components and performance metrics.
+    * Cleaned and formatted data for processing in an AI model.
+    * Identified significant financial trends and indicators.
 
-### [Task 2: AI Chatbot Development](./Task%202%20-%20AI%20Chatbot%20Development)
-[cite_start]**Focus:** Logic Implementation and NLP [cite: 62]
-* [cite_start]**Objective:** Develop a rule-based AI chatbot to transform data into interactive insights[cite: 65].
-* **Activities:**
-    * [cite_start]Implemented logic to extract company names and years from user queries[cite: 88].
-    * [cite_start]Developed functions to handle inquiries for Total Revenue, Net Income, and Profitability[cite: 89].
-    * [cite_start]Integrated exception handling for invalid years or companies[cite: 86].
+### [Task 2 Developing an AI-powered financial chatbot](https://github.com/sunnyai79/BCG-GenAI-Job-Simulation/tree/main/Task%202%20Developing%20an%20AI-powered%20financial%20chatbot)
+**Objective:** Develop a rule-based AI chatbot to transform data into interactive insights.
+**Activities:**
+    * Implemented logic to extract company names and years from user queries.
+    * Developed functions to handle inquiries for Total Revenue, Net Income, and Profitability.
+    * Integrated exception handling for invalid years or companies.
 
 ---
 
 ## 🤖 Chatbot Capabilities
-[cite_start]The chatbot acts as a simple rule-based AI assistant designed to answer questions about the financial performance of **Microsoft, Tesla, and Apple**[cite: 87].
+The chatbot acts as a simple rule-based AI assistant designed to answer questions about the financial performance of **Microsoft, Tesla, and Apple**.
 
-### [cite_start]Supported Metrics [cite: 88]
+### Supported Metrics
 * **Total Revenue**
 * **Net Income**
 * **Profitability Metrics (Margin)**
 * **Year-over-Year Trends** (Fiscal Years: 2021, 2022, 2023)
 
 ### Testing & Results
-[cite_start]The following test queries were executed to validate the system logic[cite: 80, 81, 82, 83, 86]:
+The following test queries were executed to validate the system logic:
 
 | Query | Chatbot Output | Status |
 | :--- | :--- | :--- |
@@ -50,17 +48,16 @@ This repository contains the work completed for the **BCG GenAI Job Simulation**
 
 ## ⚠️ Known Limitations
 Based on the testing phase, the current iteration has the following limitations:
-1.  [cite_start]**Trend Calculation:** When asked about the "trend" or "change" in Net Income, the bot currently returns the absolute value rather than the percentage change[cite: 93].
-2.  **Scope:** Restricted to three specific companies and the years 2021–2023. [cite_start]Queries outside this scope trigger error messages[cite: 91].
-3.  **NLP:** The system relies on simple keyword matching. [cite_start]It handles specific phrases well but may fail with complex or ambiguous natural language queries[cite: 93].
+1.  **Trend Calculation:** When asked about the "trend" or "change" in Net Income, the bot currently returns the absolute value rather than the percentage change.
+2.  **Scope:** Restricted to three specific companies and the years 2021–2023. Queries outside this scope trigger error messages.
+3.  **NLP:** The system relies on simple keyword matching.It handles specific phrases well but may fail with complex or ambiguous natural language queries.
 
 ---
 
 ## 📜 Certificate
-![Certificate Preview](./Certificate/certificate_preview.png)
-[View Full Completion Certificate](./Certificate/Completion_Certificate.pdf)
+[View Full Completion Certificate](https://github.com/sunnyai79/BCG-GenAI-Job-Simulation/blob/main/Certificate.jpg)
 
 ---
 
 ## ⚖️ Disclaimer
-*This project was completed as part of the **BCG GenAI Job Simulation** on Forage. [cite_start]It is for educational purposes only and **does not represent an employment relationship** with Boston Consulting Group[cite: 17]. [cite_start]The work presented here demonstrates the skills learned and practiced during the simulation program[cite: 31].*
+*This project was completed as part of the **BCG GenAI Job Simulation** on Forage. It is for educational purposes only and **does not represent an employment relationship** with Boston Consulting Group. [cite_start]The work presented here demonstrates the skills learned and practiced during the simulation program.*
